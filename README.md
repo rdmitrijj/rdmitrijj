@@ -1,4 +1,16 @@
-## Hi there 👋
+## Python Backend Developer / DevOps Engineer
+
+#### Tech Stack:
+- Languages: Python, SQL
+
+- Frameworks & Libraries: FastAPI, SQLAlchemy, Pydantic
+
+- Tools, Databases & IDEs: Docker, PostgreSQL, PgAdmin, VS Code
+
+---
+
+
+
 
 <!--
 **rdmitrijj/rdmitrijj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
