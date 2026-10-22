@@ -3,9 +3,9 @@
 #### Tech Stack:
 - Languages: Python, SQL
 
-- Frameworks & Libraries: FastAPI, SQLAlchemy, Pydantic
+- Frameworks & Libraries: FastAPI, pandas
 
-- Tools, Databases & IDEs: Docker, PostgreSQL, PgAdmin, VS Code
+- Tools, Databases & IDEs: Docker, PostgreSQL
 
 ---
 
