@@ -27,8 +27,6 @@ Live: https://apexprep.duckdns.org
 
 🌍 English (B2) · Latvian (B1) · Russian (native)
 
-· GitHub: https://github.com/rdmitrijj
-
 
 <!--
 **rdmitrijj/rdmitrijj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
