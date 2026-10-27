@@ -1,33 +1,29 @@
-## Python Backend Developer / DevOps Engineer | FastAPI  • Docker • CI/CD pipelines
+## Full-stack Developer / DevOps Engineer
+
+Technical Stack:
 
 
-🐍Python Backend Developer | FastAPI · PostgreSQL🐘 · Docker🐋
+➤ Back-end: 🐍Python, ⚡FastAPI, REST APIs, Alembic, aiogram 
 
 
-
-⚡I build backend systems, using RESTful API design that save businesses time. On my own initiative, I built a Telegram bot for a small manufacturing business where I side-hustled on summer holidays. The owner was spending hours answering the same client questions about price, size and color. The bot now handles these inquiries instantly, 24/7, and cut the owner’s time spent on client communication by ~35%. 
-
+➤ Front-end: ⚛️React, 🟨JavaScript (basic), 🟨HTML/CSS; learning TypeScript
 
 
-❓How I did it: Python and aiogram for the bot architecture, REST API integration, Docker for production and Git and GitHub for version control. I designed the conversation flows around the most frequent client questions, so the owner only steps in when a client is ready to buy. I also design and deploy backend projects end-to-end: 
+➤ Infrastructure & Security: 🐋Docker, Linux, AWS, Grafana, networking fundamentals (TCP/IP, OSI model), Render, Neon
 
 
-
-🛠 I also design and deploy backend projects end-to-end: 
-
+➤	AI tools: Claude Code (AI coding agent) 
 
 
-• Apex Prep (FastAPI · PostgreSQL · React): an SAT preparation platform I built for my own exam prep, with mock exams, weakness trainers and mistake analysis. Live: https://apexprep.duckdns.org Hosted on **AWS** btw
+➤	Tools & IDE: GitHub, Gitlab, Microsoft Office, VS Code
+ 
+---
 
+🛠 My current projects: 
 
+• Apex Prep (FastAPI · PostgreSQL · React · AWS): an SAT preparation platform I built for my own exam prep, with mock exams, weakness trainers and mistake analysis. I tried to implement as most of features as are in the same learning apps. 
 
-Stack: Python, FastAPI, SQLAlchemy 2.0 (async), PostgreSQL, Docker, GitHub Actions, CI/CD pipelines, REST API design, Kubernetes (fundamentals). Currently learning TypeScript and React. 
-
-
-
-🎯Looking for a Junior Python Backend Developer role, ideally in fintech, edtech or business automation, where backend work directly affects revenue or users’ time. Based in Riga, Latvia, open to remote work. 
-
-
+Live: https://apexprep.duckdns.org 
 
 🌍 English (B2) · Latvian (B1) · Russian (native)
 
