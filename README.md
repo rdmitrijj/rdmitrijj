@@ -17,7 +17,7 @@
 
 
 
-• Apex Prep (FastAPI · PostgreSQL · React): an SAT preparation platform I built for my own exam prep, with mock exams, weakness trainers and mistake analysis. Live: https://apex-prep.onrender.com (may take ~30 sec to wake up)
+• Apex Prep (FastAPI · PostgreSQL · React): an SAT preparation platform I built for my own exam prep, with mock exams, weakness trainers and mistake analysis. Live: https://apexprep.duckdns.org (may take ~30 sec to wake up)
 
 
 
