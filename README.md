@@ -23,7 +23,7 @@ Technical Stack:
 
 • Apex Prep (FastAPI · PostgreSQL · React · AWS): SAT preparation platform I built for my own exam prep, with mock exams, weakness trainers and mistake analysis. I tried to implement as most of features as are in the same learning apps. 
 
-Live: https://apexprep.duckdns.org 
+Live: https://apexprep.duckdns.org (if AWS EC2 is working)
 
 🌍 English (B2) · Latvian (B1) · Russian (native)
 
