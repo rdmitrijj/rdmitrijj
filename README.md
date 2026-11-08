@@ -6,7 +6,7 @@ Technical Stack:
 ➤ Back-end: 🐍Python, ⚡FastAPI, REST APIs, Alembic, aiogram 
 
 
-➤ Front-end: ⚛️React, 🟨JavaScript (basic), 🟨HTML/CSS; learning TypeScript
+➤ Front-end: ⚛️React, 🟨JavaScript, 🟨HTML/CSS; learning TypeScript
 
 
 ➤ Infrastructure & Security: 🐋Docker, Linux, AWS, Grafana, networking fundamentals (TCP/IP, OSI model), Render, Neon
